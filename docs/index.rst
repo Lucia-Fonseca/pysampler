@@ -6,11 +6,11 @@ PySampler
    :alt: Logo
    :width: 120
 
-.. include:: README_copy.rst
-
 
 Documentation
 =============
+
+.. include:: README_copy.rst
 
 Table of Contents
 -----------------
@@ -19,3 +19,4 @@ Table of Contents
    :numbered:
 
    reference
+   examples
