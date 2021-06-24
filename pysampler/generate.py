@@ -5,6 +5,7 @@ This module samples from any probability distribution.
 __version__ = '0.1'
 
 __author__ = 'Lucia F. de la Bella'
+__contributor__='Jesus Rubio Jimenez'
 __email__ = 'lucia.fonseca-de-la-bella@port.ac.uk'
 __license__ = 'MIT'
 __copyright__ = '2020, Lucia Fonseca de la Bella'
