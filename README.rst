@@ -14,4 +14,4 @@ Feature list:
 
 Check `examples`_ of how to use PySampler in different physics scenarios.
 
-.. _examples:https://github.com/Lucia-Fonseca/pysampler/tree/main/examples
+.. _examples: https://github.com/Lucia-Fonseca/pysampler/tree/main/examples
