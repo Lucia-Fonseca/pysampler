@@ -1,0 +1,6 @@
+If you use PySampler for work or research presented in a publication (whether
+directly, or as a dependency to another package) we recommend and encourage
+the following acknowledgment:
+
+  This research made use of PySampler, a Python package for unequal-time
+  matter power spectrum (Lucia Fonseca de la Bella, 2020).
