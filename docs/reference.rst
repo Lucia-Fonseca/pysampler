@@ -3,11 +3,11 @@ Reference
 
 The ``pysampler`` package contains the following features:
 
-- :func:`~pysampler.sampler`
-- :func:`~pysampler.statistics`
+- :func:`~pysampler.generate.sampler`
+- :func:`~pysampler.generate.statistics`
 
 ----
 
-.. autofunction:: pysampler.sampler
+.. autofunction:: pysampler.generate.sampler
 
-.. autofunction:: pysampler.statistics
+.. autofunction:: pysampler.generate.statistics
