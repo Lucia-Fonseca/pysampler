@@ -14,7 +14,8 @@ Feature list:
 
 * **Statistics**: from many realisations, compute the average and the standard deviation.
 
-The full list of features can be found in the `PySampler Documentation`_
+The full list of features can be found in the `PySampler Documentation`_.
+
 Check `examples`_ of how to use PySampler in different physics scenarios.
 
 If you use PySampler for work or research presented in a publication please follow
@@ -40,5 +41,5 @@ our `Citation Guidelines`_.
     :alt: unequalPy's PyPI Status
 
 .. |Documentation Status| image:: https://readthedocs.org/projects/githubapps/badge/?version=latest
-    :target: https://unequalpy.readthedocs.io/en/latest/?badge=latest
+    :target: https://pysampler.readthedocs.io/en/latest/?badge=latest
     :alt: Documentation Status
