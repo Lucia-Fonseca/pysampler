@@ -16,7 +16,7 @@
 
 
 # -- Project information -----------------------------------------------------
-from unequalpy import __version__
+from pysampler import __version__
 
 project = 'pysampler'
 copyright = '2020, Lucia Fonseca de la Bella'
