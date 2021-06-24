@@ -6,7 +6,7 @@ PySampler
    :alt: Logo
    :width: 120
 
-.. include:: ./README.rst
+.. include:: README_copy.rst
 
 
 Documentation
