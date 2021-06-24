@@ -9,13 +9,14 @@ __email__ = 'lucia.fonseca-de-la-bella@port.ac.uk'
 __license__ = 'MIT'
 __copyright__ = '2020, Lucia Fonseca de la Bella'
 
+__all__ = [
+    'sampler',
+    'statistics',
+]
+
 import numpy as np
 from scipy.integrate import cumtrapz
 
-__all__ = [
-    'sampler',
-    'statistics'
-]
 
 def sampler(distribution, x_min, x_max, resolution=100, size=None, scale=1.):
     """Distribution sampler.
