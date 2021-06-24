@@ -76,13 +76,13 @@ def statistics(realisations, nbins):
 
     Returns
     -------
-    average:
+    average: (nbins,) array_like 
         Average sample.
-    bin_center:
+    bin_center: (nbins,) array_like
         Centers of the bins.
-    average_counts:
+    average_counts: (nbins,) array_like
         Average number counts at the bin centers.
-    std:
+    std: (nbins,) array_like
         Standard deviation at the bin centers.
 
     References
