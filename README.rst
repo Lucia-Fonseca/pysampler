@@ -1,10 +1,10 @@
-|Logo| 
 
-=========
-PySampler
-=========
 
-|Zenodo Badge| |PyPI Status| |Documentation Status|
+=================
+|Logo|  PySampler
+=================
+
+|Documentation Status|
 
 PySampler is a very simple package to produce many realisations of samples drawn from any probability distribution.
 
@@ -27,7 +27,7 @@ our `Citation Guidelines`_.
 .. layout
 .. |Logo| image:: docs/_static/pysampler.svg
    :alt: Logo
-   :width: 300
+   :width: 100
 
 .. begin-badges
 
