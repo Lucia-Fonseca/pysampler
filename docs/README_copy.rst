@@ -1,9 +1,3 @@
-
-
-=================
-|Logo|  PySampler
-=================
-
 |Documentation Status|
 
 PySampler is a very simple package to produce many realisations of samples drawn from any probability distribution.
