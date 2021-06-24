@@ -27,7 +27,7 @@ our `Citation Guidelines`_.
 .. layout
 .. |Logo| image:: docs/_static/pysampler.svg
    :alt: Logo
-   :width: 100
+   :width: 90
 
 .. begin-badges
 
