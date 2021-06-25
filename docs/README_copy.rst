@@ -37,8 +37,8 @@ our `Citation Guidelines`_.
 
 .. |PyPI Status| image:: https://img.shields.io/pypi/v/pysampler.svg
     :target: https://pypi.org/project/pysampler/
-    :alt: unequalPy's PyPI Status
+    :alt: PySampler's PyPI Status
 
 .. |Documentation Status| image:: https://readthedocs.org/projects/githubapps/badge/?version=latest
-    :target: https://pysampler.readthedocs.io/en/latest/?badge=latest
+    :target: https://pysampler.readthedocs.io/en/latest/
     :alt: Documentation Status
