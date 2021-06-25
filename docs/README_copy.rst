@@ -1,4 +1,4 @@
-*Maintainer* `Lucia F. de la Bella`_ (University of Portsmouth)
+*Maintainer `Lucia F. de la Bella`_ (University of Portsmouth)*
 
 *In collaboration with Jesús Rubio Jiménez (University of Exeter)*
 
