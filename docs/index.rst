@@ -2,6 +2,7 @@
 |Logo| PySampler
 ================
 
+.. layout
 .. |Logo| image:: _static/pysampler.svg
    :alt: Logo
    :width: 60
