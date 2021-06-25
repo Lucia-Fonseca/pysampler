@@ -1,5 +1,9 @@
 |Documentation Status|
 
+Maintainer `Lucia F. de la Bella`_
+
+in collaboration with Jesús Rubio Jiménez
+
 PySampler is a very simple package to produce many realisations of samples drawn from any probability distribution.
 
 Feature list:
@@ -15,9 +19,10 @@ Check `examples`_ of how to use PySampler in different physics scenarios.
 If you use PySampler for work or research presented in a publication please follow
 our `Citation Guidelines`_.
 
-.. _unequalPy Documentation: https://pysampler.readthedocs.io/en/latest/
+.. _PySampler Documentation: https://pysampler.readthedocs.io/en/latest/
 .. _Citation Guidelines: CITATION
 .. _examples: https://github.com/Lucia-Fonseca/pysampler/tree/main/examples
+.. _Lucia F. de la Bella: lucia.fonseca-de-la-bella@port.ac.ul
 
 .. layout
 .. |Logo| image:: docs/_static/pysampler.svg
