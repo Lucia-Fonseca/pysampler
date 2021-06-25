@@ -1,12 +1,10 @@
-================
-|Logo| PySampler
-================
-
-.. layout
-.. |Logo| image:: _static/pysampler.svg
+.. image:: _static/pysampler.svg
    :alt: Logo
-   :width: 40
-
+   :width: 80
+   
+=========
+PySampler
+=========
 
 Documentation
 =============
