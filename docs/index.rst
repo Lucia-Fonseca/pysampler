@@ -4,7 +4,7 @@ PySampler
 
 .. image:: _static/pysampler.png
    :alt: Logo
-   :width: 120
+   :width: 90
 
 
 Documentation
