@@ -19,4 +19,4 @@ Table of Contents
    :numbered:
 
    reference
-   examples
+   tutorial
