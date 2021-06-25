@@ -1,4 +1,4 @@
-Examples
+Tutorial
 ========
 
 In our repository you can find some `examples`_ that will help you to get started wit ``PySampler``.
