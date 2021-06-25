@@ -41,5 +41,5 @@ our `Citation Guidelines`_.
     :alt: unequalPy's PyPI Status
 
 .. |Documentation Status| image:: https://readthedocs.org/projects/pysampler/badge/?version=latest
-   :target: https://pysampler.readthedocs.io/en/latest/?badge=latest
+   :target: https://pysampler.readthedocs.io/en/latest/
    :alt: Documentation Status
