@@ -1,8 +1,8 @@
+*Maintainer* `Lucia F. de la Bella`_ (University of Portsmouth)
+
+*In collaboration with Jesús Rubio Jiménez (University of Exeter)*
+
 |Documentation Status|
-
-Maintainer `Lucia F. de la Bella`_
-
-in collaboration with Jesús Rubio Jiménez
 
 PySampler is a very simple package to produce many realisations of samples drawn from any probability distribution.
 
